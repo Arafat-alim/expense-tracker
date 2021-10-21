@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-image: linear-gradient(135deg, #3813c2 10%, #ff6fd8 100%);
   color: #000000;
